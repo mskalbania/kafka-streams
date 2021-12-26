@@ -1,0 +1,6 @@
+rootProject.name = 'kafka-streams'
+include 'hello-streams'
+include 'crypto-twitter'
+include 'game-leaderbord'
+include 'med-app'
+
